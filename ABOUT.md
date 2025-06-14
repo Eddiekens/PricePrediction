@@ -8,7 +8,7 @@ Installation:
 
 To install the Cryptocurrency Price Prediction Tool, follow these steps:
 
-1. Clone the repository: git clone **https://github.com/ovinokurov/PricePrediction.git**
+1. Clone the repository: git clone **https://github.com/Eddiekens/PricePrediction.git**
 2. Install the required libraries: **pip install requests openpyxl scikit-learn colorama**
 3. Run the tool: **python main.py**
 
