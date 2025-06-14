@@ -1,8 +1,5 @@
 """
 Cryptocurrency Price Prediction Tool
-Author: Oleg Vinokurov
-Company: VB-Programmer Inc.
-Date: 02/19/2023
 
 This program retrieves historical price data for a selected cryptocurrency, 
 uses it to train a machine learning model, and generates price predictions 
